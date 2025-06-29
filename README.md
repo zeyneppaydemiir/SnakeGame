@@ -22,12 +22,10 @@ Bu proje, klasik yılan oyununun 2D versiyonudur ve Unity oyun motoru ile geliş
 2. `Scenes/StartScene` veya `Scenes/GameScene` dosyasını açın.
 3. Play tuşuna basarak oyunu başlatın.
 
-## 📸 Ekran Görüntüsü
 
-> (İstersen buraya bir oyun ekran görüntüsü ekleyebilirim.)
 
 ## 👩‍💻 Geliştirici
 
-- Zeynep Paydemir  
+- Zeynep Aydemir  
 - GitHub: [@zeyneppaydemiir](https://github.com/zeyneppaydemiir)
 
